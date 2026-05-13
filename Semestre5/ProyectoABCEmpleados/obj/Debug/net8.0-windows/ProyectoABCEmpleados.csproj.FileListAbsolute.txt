@@ -1,0 +1,17 @@
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\bin\Debug\net8.0-windows\ProyectoABCEmpleados.exe
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\bin\Debug\net8.0-windows\ProyectoABCEmpleados.deps.json
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\bin\Debug\net8.0-windows\ProyectoABCEmpleados.runtimeconfig.json
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\bin\Debug\net8.0-windows\ProyectoABCEmpleados.dll
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\bin\Debug\net8.0-windows\ProyectoABCEmpleados.pdb
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\obj\Debug\net8.0-windows\ProyectoABCEmpleados.Form1.resources
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\obj\Debug\net8.0-windows\ProyectoABCEmpleados.csproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\obj\Debug\net8.0-windows\ProyectoABCEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\obj\Debug\net8.0-windows\ProyectoABCEmpleados.AssemblyInfoInputs.cache
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\obj\Debug\net8.0-windows\ProyectoABCEmpleados.AssemblyInfo.cs
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\obj\Debug\net8.0-windows\ProyectoABCEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\obj\Debug\net8.0-windows\ProyectoABCEmpleados.dll
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\obj\Debug\net8.0-windows\refint\ProyectoABCEmpleados.dll
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\obj\Debug\net8.0-windows\ProyectoABCEmpleados.pdb
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\obj\Debug\net8.0-windows\ProyectoABCEmpleados.genruntimeconfig.cache
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\obj\Debug\net8.0-windows\ref\ProyectoABCEmpleados.dll
+C:\Users\josem\OneDrive\Documentos\GitHub\Raquelinha\Semestre5\ProyectoABCEmpleados\obj\Debug\net8.0-windows\ProyectoABCEmpleados.Forms.AgregarEmpleado.resources
