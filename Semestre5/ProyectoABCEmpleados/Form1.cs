@@ -1,3 +1,4 @@
+using ProyectoABCEmpleados.Estructuras;
 using ProyectoABCEmpleados.Forms;
 
 namespace ProyectoABCEmpleados
@@ -29,6 +30,11 @@ namespace ProyectoABCEmpleados
         {
             ConsultarEmpleado consulta = new ConsultarEmpleado();
             consulta.Show();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            TablaHash tabla = new TablaHash(5);
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProyectoABCEmpleados.Estructuras;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,6 +13,7 @@ namespace ProyectoABCEmpleados.Forms
 {
     public partial class AgregarEmpleado : Form
     {
+        TablaHash tabla = new TablaHash(5);
         public AgregarEmpleado()
         {
             InitializeComponent();
@@ -21,10 +23,24 @@ namespace ProyectoABCEmpleados.Forms
         {
             string dpi = txtDPI.Text;
             string nombre = txtNombre.Text;
+            string direccion = txtDireccion.Text;
+            string email = txtEmail.Text;
+            string celular = txtCelular.Text;
+            string edad = txtEdad.Text;
+            string salario = txtSalario.Text;
+            string descuentos = txtDesceuntos.Text;
+            string profesion = txtProfesion.Text;
+            string fecha_inicio = new DateTime().Date.ToString();
 
-            string mensaje = "El empleado " + nombre + " tiene el DPI " + dpi;
+            Empleado empleado = new Empleado();
+            empleado.SetDpi(dpi);
+            empleado.SetNombre(nombre);
+            empleado.SetEmail(email);
+            tabla.Insertar(empleado);
+            string mensaje = "Empleado agregado";
             MessageBox.Show(mensaje);
-            this.Close();
+
+            MessageBox.Show(tabla.ObtenerEmpleados());
 
         }
     }

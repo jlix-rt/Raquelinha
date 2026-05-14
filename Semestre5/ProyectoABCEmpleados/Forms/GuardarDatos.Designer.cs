@@ -116,6 +116,7 @@
 
         private Label label1;
         private PictureBox pictureBox1;
+        private Button btnGuardar;
         private Button button1;
         private Button btnRegresar;
         private Label label2;
