@@ -81,7 +81,7 @@
             // 
             btnVerEmpleados.Location = new Point(71, 266);
             btnVerEmpleados.Name = "btnVerEmpleados";
-            btnVerEmpleados.Size = new Size(75, 23);
+            btnVerEmpleados.Size = new Size(100, 23);
             btnVerEmpleados.TabIndex = 7;
             btnVerEmpleados.Text = "Ver empleados";
             btnVerEmpleados.UseVisualStyleBackColor = true;
@@ -90,16 +90,17 @@
             // 
             btnGuardarDatos.Location = new Point(71, 226);
             btnGuardarDatos.Name = "btnGuardarDatos";
-            btnGuardarDatos.Size = new Size(75, 23);
+            btnGuardarDatos.Size = new Size(100, 23);
             btnGuardarDatos.TabIndex = 6;
             btnGuardarDatos.Text = "Guardar datos";
             btnGuardarDatos.UseVisualStyleBackColor = true;
+            btnGuardarDatos.Click += btnGuardarDatos_Click;
             // 
             // btnEliminar
             // 
             btnEliminar.Location = new Point(71, 188);
             btnEliminar.Name = "btnEliminar";
-            btnEliminar.Size = new Size(75, 23);
+            btnEliminar.Size = new Size(100, 23);
             btnEliminar.TabIndex = 5;
             btnEliminar.Text = "Eliminar empleado";
             btnEliminar.UseVisualStyleBackColor = true;
@@ -108,7 +109,7 @@
             // 
             btnModificarEmpleado.Location = new Point(71, 148);
             btnModificarEmpleado.Name = "btnModificarEmpleado";
-            btnModificarEmpleado.Size = new Size(75, 23);
+            btnModificarEmpleado.Size = new Size(100, 23);
             btnModificarEmpleado.TabIndex = 4;
             btnModificarEmpleado.Text = "Modificar empleado";
             btnModificarEmpleado.UseVisualStyleBackColor = true;
@@ -117,16 +118,17 @@
             // 
             btnConsultarEmpleado.Location = new Point(71, 106);
             btnConsultarEmpleado.Name = "btnConsultarEmpleado";
-            btnConsultarEmpleado.Size = new Size(75, 23);
+            btnConsultarEmpleado.Size = new Size(100, 23);
             btnConsultarEmpleado.TabIndex = 3;
             btnConsultarEmpleado.Text = "Consultar empleado";
             btnConsultarEmpleado.UseVisualStyleBackColor = true;
+            btnConsultarEmpleado.Click += btnConsultarEmpleado_Click;
             // 
             // btnAgregarEmpleado
             // 
             btnAgregarEmpleado.Location = new Point(71, 66);
             btnAgregarEmpleado.Name = "btnAgregarEmpleado";
-            btnAgregarEmpleado.Size = new Size(75, 23);
+            btnAgregarEmpleado.Size = new Size(100, 23);
             btnAgregarEmpleado.TabIndex = 2;
             btnAgregarEmpleado.Text = "Agregar empleado";
             btnAgregarEmpleado.UseVisualStyleBackColor = true;

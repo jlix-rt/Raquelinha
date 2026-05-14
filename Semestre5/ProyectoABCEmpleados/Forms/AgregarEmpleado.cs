@@ -19,7 +19,7 @@ namespace ProyectoABCEmpleados.Forms
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            string dpi = txtDpi.Text;
+            string dpi = txtDPI.Text;
             string nombre = txtNombre.Text;
 
             string mensaje = "El empleado " + nombre + " tiene el DPI " + dpi;

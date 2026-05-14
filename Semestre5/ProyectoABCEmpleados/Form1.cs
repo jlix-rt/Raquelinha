@@ -19,5 +19,17 @@ namespace ProyectoABCEmpleados
             AgregarEmpleado agregarEmpleado = new AgregarEmpleado();
             agregarEmpleado.Show();
         }
+
+        private void btnGuardarDatos_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnConsultarEmpleado_Click(object sender, EventArgs e)
+        {
+            ConsultarEmpleado consulta = new ConsultarEmpleado();
+            consulta.Show();
+        }
     }
 }
+    

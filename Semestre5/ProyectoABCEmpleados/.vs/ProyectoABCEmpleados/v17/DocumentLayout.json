@@ -1,21 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josem\\OneDrive\\Documentos\\GitHub\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\",
+  "WorkspaceRootPath": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|c:\\users\\josem\\onedrive\\documentos\\github\\raquelinha\\semestre5\\proyectoabcempleados\\forms\\agregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|solutionrelative:forms\\agregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\forms\\modicarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|solutionrelative:forms\\modicarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|c:\\users\\josem\\onedrive\\documentos\\github\\raquelinha\\semestre5\\proyectoabcempleados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|c:\\users\\pc\\onedrive\\documents\\git\\raquelinha\\semestre5\\proyectoabcempleados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|c:\\users\\josem\\onedrive\\documentos\\github\\raquelinha\\semestre5\\proyectoabcempleados\\forms\\agregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\forms\\agregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|solutionrelative:forms\\agregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|c:\\users\\pc\\onedrive\\documents\\git\\raquelinha\\semestre5\\proyectoabcempleados\\forms\\eliminarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|solutionrelative:forms\\eliminarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|c:\\users\\pc\\onedrive\\documents\\git\\raquelinha\\semestre5\\proyectoabcempleados\\forms\\guardardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|solutionrelative:forms\\guardardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|c:\\users\\pc\\onedrive\\documents\\git\\raquelinha\\semestre5\\proyectoabcempleados\\forms\\imprimirdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|solutionrelative:forms\\imprimirdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|c:\\users\\pc\\onedrive\\documents\\git\\raquelinha\\semestre5\\proyectoabcempleados\\proyectoabcempleados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|solutionrelative:proyectoabcempleados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|c:\\users\\pc\\onedrive\\documents\\git\\raquelinha\\semestre5\\proyectoabcempleados\\consultarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|solutionrelative:consultarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\consultarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|solutionrelative:consultarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|c:\\users\\pc\\onedrive\\documents\\git\\raquelinha\\semestre5\\proyectoabcempleados\\forms\\agregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|solutionrelative:forms\\agregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|c:\\users\\josem\\onedrive\\documentos\\github\\raquelinha\\semestre5\\proyectoabcempleados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|c:\\users\\pc\\onedrive\\documents\\git\\raquelinha\\semestre5\\proyectoabcempleados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7190BDD3-1804-4D0A-B657-72AE91E67F1B}|ProyectoABCEmpleados.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,28 +54,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AgregarEmpleado.cs",
-              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Documentos\\GitHub\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\AgregarEmpleado.cs",
-              "RelativeDocumentMoniker": "Forms\\AgregarEmpleado.cs",
-              "ToolTip": "C:\\Users\\josem\\OneDrive\\Documentos\\GitHub\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\AgregarEmpleado.cs",
-              "RelativeToolTip": "Forms\\AgregarEmpleado.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T23:26:24.601Z",
+              "DocumentIndex": 6,
+              "Title": "ProyectoABCEmpleados",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\ProyectoABCEmpleados.csproj",
+              "RelativeDocumentMoniker": "ProyectoABCEmpleados.csproj",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\ProyectoABCEmpleados.csproj",
+              "RelativeToolTip": "ProyectoABCEmpleados.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T17:47:47.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "ImprimirDatos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\ImprimirDatos.cs",
+              "RelativeDocumentMoniker": "Forms\\ImprimirDatos.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\ImprimirDatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\ImprimirDatos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T17:58:52.725Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuardarDatos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\GuardarDatos.cs",
+              "RelativeDocumentMoniker": "Forms\\GuardarDatos.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\GuardarDatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\GuardarDatos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T17:48:29.799Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EliminarEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\EliminarEmpleado.cs",
+              "RelativeDocumentMoniker": "Forms\\EliminarEmpleado.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\EliminarEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\EliminarEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T17:24:13.15Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AgregarEmpleado.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Documentos\\GitHub\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\AgregarEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\AgregarEmpleado.cs",
               "RelativeDocumentMoniker": "Forms\\AgregarEmpleado.cs",
-              "ToolTip": "C:\\Users\\josem\\OneDrive\\Documentos\\GitHub\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\AgregarEmpleado.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\AgregarEmpleado.cs [Dise\u00F1o]",
               "RelativeToolTip": "Forms\\AgregarEmpleado.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T23:21:00.68Z",
@@ -55,28 +119,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Documentos\\GitHub\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\josem\\OneDrive\\Documentos\\GitHub\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T23:12:56.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Documentos\\GitHub\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\josem\\OneDrive\\Documentos\\GitHub\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T23:11:06.001Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultarEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\ConsultarEmpleado.cs",
+              "RelativeDocumentMoniker": "ConsultarEmpleado.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\ConsultarEmpleado.cs",
+              "RelativeToolTip": "ConsultarEmpleado.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T06:35:16.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsultarEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\ConsultarEmpleado.cs",
+              "RelativeDocumentMoniker": "ConsultarEmpleado.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\ConsultarEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsultarEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:30:18.618Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgregarEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\AgregarEmpleado.cs",
+              "RelativeDocumentMoniker": "Forms\\AgregarEmpleado.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\AgregarEmpleado.cs",
+              "RelativeToolTip": "Forms\\AgregarEmpleado.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:26:24.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModicarEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\ModicarEmpleado.cs",
+              "RelativeDocumentMoniker": "Forms\\ModicarEmpleado.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Forms\\ModicarEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\ModicarEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T06:59:35.199Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documents\\GIT\\Raquelinha\\Semestre5\\ProyectoABCEmpleados\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:12:56.682Z",
+              "EditorCaption": ""
             }
           ]
         }
