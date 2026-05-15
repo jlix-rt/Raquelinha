@@ -1,0 +1,10 @@
+echo "# Visual Studio
+.vs/
+obj/
+bin/
+*.user
+*.resources
+*.dll
+
+# Carpeta temporal
+TempPE/" >> .gitignore
